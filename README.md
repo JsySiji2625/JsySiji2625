@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **SpringBoot, Tensorflow, Redux**
 
-- 👯 I’m looking to collaborate on **Web developer**
+- 👯 I’m looking to collaborate on **Group Work**
 
 - 🤝 I’m looking for help with **Full-stack**
 
-- 👨‍💻 All of my projects are available at [Need to update](Need to update)
+- 👨‍💻 All of my projects are available at [Need to update]
 
 - 💬 Ask me about **React, JavaScript, R, Python**
 
 - 📫 How to reach me **jiyu13532@gmail.com**
 
-- 📄 Know about my experiences [Need to update](Need to update)
+- 📄 Know about my experiences [Need to update]
 
-- ⚡ Fun fact **I think I can tell you some cold jokes...**
+- ⚡ Fun fact **:I think I can tell you some cold jokes...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
